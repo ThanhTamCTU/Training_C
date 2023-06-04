@@ -4,7 +4,7 @@
  * Date: 06-04-2023
  * Description: Training C programming
 */
-#include <stdio.h>
+#include "main.h"
 
 int main(void){
     
